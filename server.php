@@ -1,5 +1,5 @@
 <?php
-
+//check who is logged in
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
